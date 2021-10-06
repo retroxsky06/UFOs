@@ -14,8 +14,9 @@ A code editor, Visual Studio Code, was used to support the following script lang
 ##### Below is the completed UFO website
 ![fig1](https://github.com/retroxsky06/UFOs/blob/main/images/UFO_webpagetable.png)
 
+To utilize this website, UFO enthusiasts can type in their desired search criteria into the specific search fields.  Once the desired criteria is entered and submitted, a table to the right of the search box displays the requested information.  
 
-#### Multiple Search Criteria
+##### Multiple Search Criteria
 ![fig2](https://github.com/retroxsky06/UFOs/blob/main/images/Updatedfilter.png) 
 
 ## Summary
