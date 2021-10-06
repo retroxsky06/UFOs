@@ -11,9 +11,13 @@ A code editor, Visual Studio Code, was used to support the following script lang
 - CSS
 - Bootstrap
 
-## Results: How to use the webpage
+## Results: How to use UFO webpage
+##### Below is the completed UFO website
 ![fig1](https://github.com/retroxsky06/UFOs/blob/main/images/UFO_website.png)
 
+
+#### Multiple Search Criteria
+![fig2](https://github.com/retroxsky06/UFOs/blob/main/images/Search_criteria.png) 
 ## Summary
 
 
