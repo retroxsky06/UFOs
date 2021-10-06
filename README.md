@@ -12,7 +12,7 @@ A code editor, Visual Studio Code, was used to support the following script lang
 - Bootstrap
 
 ## Results: How to use the webpage
-![fig1]()
+![fig1](https://github.com/retroxsky06/UFOs/blob/main/images/UFO_website.png)
 
 ## Summary
 
